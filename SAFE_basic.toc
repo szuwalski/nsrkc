@@ -1,0 +1,39 @@
+\contentsline {section}{A. Summary of Major Changes}{}{section*.2}%
+\contentsline {section}{B. Comments, responses, and assessment summary}{}{section*.3}%
+\contentsline {section}{C. Introduction}{}{section*.4}%
+\contentsline {subsection}{Distribution}{}{section*.5}%
+\contentsline {subsection}{Life history characteristics}{}{section*.6}%
+\contentsline {subsection}{Natural mortality}{}{section*.7}%
+\contentsline {subsection}{Weight at length}{}{section*.8}%
+\contentsline {subsection}{Maturity}{}{section*.9}%
+\contentsline {subsection}{Molting probability}{}{section*.10}%
+\contentsline {subsection}{Reproduction}{}{section*.11}%
+\contentsline {subsection}{Growth}{}{section*.12}%
+\contentsline {subsection}{Management history}{}{section*.13}%
+\contentsline {subsection}{ADFG harvest strategy}{}{section*.14}%
+\contentsline {subsection}{History of BMSY}{}{section*.15}%
+\contentsline {subsection}{Fishery history}{}{section*.16}%
+\contentsline {section}{D. Data}{}{section*.17}%
+\contentsline {subsection}{Catch data}{}{section*.18}%
+\contentsline {subsection}{Survey biomass and size composition data}{}{section*.19}%
+\contentsline {subsection}{Spatial distribution}{}{section*.20}%
+\contentsline {section}{E. Analytic approach}{}{section*.21}%
+\contentsline {subsection}{History of modeling approaches}{}{section*.22}%
+\contentsline {subsection}{Model description}{}{section*.23}%
+\contentsline {subsection}{Model selection and evaluation}{}{section*.24}%
+\contentsline {subsection}{Results}{}{section*.25}%
+\contentsline {subsection}{Fits to data}{}{section*.26}%
+\contentsline {subsection}{Estimated population processes and derived quantities}{}{section*.27}%
+\contentsline {section}{F. Calculation of the OFL}{}{section*.28}%
+\contentsline {subsection}{Methodology of the OFL}{}{section*.29}%
+\contentsline {subsection}{Calculated OFLs and interpretation}{}{section*.30}%
+\contentsline {subsection}{Projections under harvest strategies}{}{section*.31}%
+\contentsline {section}{G. Calculation of the ABC}{}{section*.32}%
+\contentsline {subsection}{Uncertainty in the ABC}{}{section*.33}%
+\contentsline {subsection}{Author recommendations}{}{section*.34}%
+\contentsline {section}{H. Data gaps and research priorities}{}{section*.35}%
+\contentsline {subsection}{Methodology}{}{section*.36}%
+\contentsline {subsection}{Data sources}{}{section*.37}%
+\contentsline {subsection}{Scientific uncertainty}{}{section*.38}%
+\contentsline {section}{I. Ecosystem considerations}{}{section*.39}%
+\contentsline {section}{Appendix A: Population dynamics}{}{section*.40}%
