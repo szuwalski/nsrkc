@@ -1,17 +1,16 @@
-#require(devtools)
-#devtools::install_github("seacode/gmacs", subdir = "/gmr", ref = "develop")
-# ploting for model 1 under smbkc18a folder - using gmr and Jim's code 
-in_path<-"C:/gmr/R/"
+
 library(miceadds)
 library(ggplot2)
 library(ggridges)
 library(dplyr)
 library(PBSmodelling)
 library(reshape2)
-source.all( path=in_path, grepstring="\\.R",  print.source=TRUE, file_sep="__"  )
 
-mod_names <- c("nsrkc")
-.MODELDIR = c("./1_nsrkc_estgrow/")
+#==uncommetn here if you do not have devtools and gmr installed
+require(devtools)
+install.packages("szuwalski/gmr")
+library(gmr)
+
 mod_names <- c("NSRKC_Hamachan_growth","NSRKC_const_est_molt_inc")
 .MODELDIR = c("./1_nsrkc/","./1_nsrkc_estgrow/")
 .THEME    = theme_bw(base_size = 12, base_family = "") +
@@ -72,12 +71,6 @@ plot_natural_mortality(M, plt_knots = FALSE)
 plot_ssb(M)
 
 plot_recruitment_size(M)
-
-plot_growth_transition(M)
-
-plot_size_transition(M)
-
-plot_numbers(M)
 
 plot_kobe(M,fleet_in="Summer_com")
 
